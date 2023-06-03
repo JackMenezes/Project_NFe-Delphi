@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/22 12:42:31.000.319,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/22 13:15:37.000.045,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Projeto NFE\Vendas.dfm</Transaction>
+    <Transaction>2019/05/22 13:15:37.000.045,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Projeto NFE\Vendas.pas</Transaction>
+    <Transaction>2019/05/22 13:15:49.000.389,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Projeto NFE\NFE.dproj</Transaction>
+    <Transaction>2019/05/22 13:16:46.000.939,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Projeto NFE\Unit1.pas</Transaction>
+    <Transaction>2019/05/22 13:17:19.000.575,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Projeto NFE\Unit1.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Projeto NFE\Modulo.pas</Transaction>
+    <Transaction>2019/05/22 13:17:19.000.575,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Projeto NFE\Unit1.dfm=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Projeto NFE\Modulo.dfm</Transaction>
+    <Transaction>2019/05/22 15:30:50.000.798,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Projeto NFE\Unit1.pas</Transaction>
+    <Transaction>2019/05/22 15:34:16.000.234,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Projeto NFE\Unit1.dfm=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Projeto NFE\Certificado.dfm</Transaction>
+    <Transaction>2019/05/22 15:34:16.000.234,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Projeto NFE\Unit1.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Projeto NFE\Certificado.pas</Transaction>
+  </Transactions>
+</BorlandProject>
